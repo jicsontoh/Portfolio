@@ -28,6 +28,10 @@ section, summary, time, mark, audio, video {
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
+	
+html {
+	scroll-behavior: smooth !important;
+}
 
 body {
 	line-height: 1;
@@ -3334,6 +3338,7 @@ input, select, textarea {
 					line-height: 1.85em;
 					padding: 0.75em 0;
 					text-transform: uppercase;
+					scroll-behavior: smooth;
 				}
 
 					#menu .links li a:hover {
