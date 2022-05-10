@@ -1,2 +1,2 @@
 First portfolio website 
-Taken template from HTML5
+Template taken from HTML5
